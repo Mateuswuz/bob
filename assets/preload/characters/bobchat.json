@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bob idle"
+		},
+		{
+			"offsets": [
+				200,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bob left"
+		},
+		{
+			"offsets": [
+				76,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bob right"
+		},
+		{
+			"offsets": [
+				138,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bob down"
+		},
+		{
+			"offsets": [
+				145,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bob up"
+		},
+		{
+			"offsets": [
+				121,
+				492
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "intro",
+			"loop": false,
+			"name": "bob intro"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bobchat",
+	"position": [
+		70,
+		280
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		243,
+		255
+	],
+	"camera_position": [
+		-80,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

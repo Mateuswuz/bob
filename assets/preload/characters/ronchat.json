@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "ron idle left"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "ron idle right"
+		},
+		{
+			"offsets": [
+				63,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ron left"
+		},
+		{
+			"offsets": [
+				18,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ron down"
+		},
+		{
+			"offsets": [
+				-65,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ron right"
+		},
+		{
+			"offsets": [
+				-18,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ron up"
+		},
+		{
+			"offsets": [
+				-8,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "ron intro"
+		},
+		{
+			"offsets": [
+				76,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "notbon left miss"
+		},
+		{
+			"offsets": [
+				-70,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "notbon right miss"
+		},
+		{
+			"offsets": [
+				-17,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "notbon up miss"
+		},
+		{
+			"offsets": [
+				18,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "notbon down miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ron idle left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ronchat",
+	"position": [
+		-210,
+		350
+	],
+	"healthicon": "ron",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		228,
+		0
+	],
+	"camera_position": [
+		120,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
