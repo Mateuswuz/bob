@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lilmanleft.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="littleman danceleft20000" x="5" y="5" width="119" height="127" frameX="0" frameY="-1" frameWidth="119" frameHeight="128"/>
+	<SubTexture name="littleman danceleft20001" x="5" y="5" width="119" height="127" frameX="0" frameY="-1" frameWidth="119" frameHeight="128"/>
+	<SubTexture name="littleman danceleft20002" x="129" y="5" width="117" height="127" frameX="-1" frameY="-1" frameWidth="119" frameHeight="128"/>
+	<SubTexture name="littleman danceleft20003" x="129" y="5" width="117" height="127" frameX="-1" frameY="-1" frameWidth="119" frameHeight="128"/>
+	<SubTexture name="littleman danceleft20004" x="251" y="5" width="115" height="128" frameX="-3" frameY="0" frameWidth="119" frameHeight="128"/>
+	<SubTexture name="littleman danceleft20005" x="251" y="5" width="115" height="128" frameX="-3" frameY="0" frameWidth="119" frameHeight="128"/>
+	<SubTexture name="littleman danceleft20006" x="371" y="5" width="114" height="128" frameX="-4" frameY="0" frameWidth="119" frameHeight="128"/>
+	<SubTexture name="littleman danceright20000" x="5" y="138" width="116" height="127" frameX="0" frameY="-1" frameWidth="116" frameHeight="128"/>
+	<SubTexture name="littleman danceright20001" x="5" y="138" width="116" height="127" frameX="0" frameY="-1" frameWidth="116" frameHeight="128"/>
+	<SubTexture name="littleman danceright20002" x="126" y="138" width="115" height="127" frameX="0" frameY="-1" frameWidth="116" frameHeight="128"/>
+	<SubTexture name="littleman danceright20003" x="126" y="138" width="115" height="127" frameX="0" frameY="-1" frameWidth="116" frameHeight="128"/>
+	<SubTexture name="littleman danceright20004" x="246" y="138" width="114" height="128" frameX="0" frameY="0" frameWidth="116" frameHeight="128"/>
+	<SubTexture name="littleman danceright20005" x="246" y="138" width="114" height="128" frameX="0" frameY="0" frameWidth="116" frameHeight="128"/>
+	<SubTexture name="littleman danceright20006" x="365" y="138" width="114" height="128" frameX="0" frameY="0" frameWidth="116" frameHeight="128"/>
+</TextureAtlas>

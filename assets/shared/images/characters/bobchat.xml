@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bobchat.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bob down0000" x="5" y="5" width="450" height="350" frameX="-14" frameY="-11" frameWidth="473" frameHeight="361"/>
+	<SubTexture name="bob down0001" x="5" y="5" width="450" height="350" frameX="-14" frameY="-11" frameWidth="473" frameHeight="361"/>
+	<SubTexture name="bob down0002" x="460" y="5" width="468" height="359" frameX="-3" frameY="-2" frameWidth="473" frameHeight="361"/>
+	<SubTexture name="bob down0003" x="460" y="5" width="468" height="359" frameX="-3" frameY="-2" frameWidth="473" frameHeight="361"/>
+	<SubTexture name="bob down0004" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0005" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0006" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0007" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0008" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0009" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0010" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0011" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0012" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0013" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob down0014" x="933" y="5" width="473" height="361"/>
+	<SubTexture name="bob idle0000" x="1411" y="5" width="348" height="386" frameX="-2" frameY="-5" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0001" x="1411" y="5" width="348" height="386" frameX="-2" frameY="-5" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0002" x="1764" y="5" width="348" height="387" frameX="-1" frameY="-4" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0003" x="1764" y="5" width="348" height="387" frameX="-1" frameY="-4" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0004" x="2117" y="5" width="342" height="389" frameX="0" frameY="-1" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0005" x="2117" y="5" width="342" height="389" frameX="0" frameY="-1" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0006" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0007" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0008" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0009" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0010" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0011" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0012" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0013" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob idle0014" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob intro0000" x="2809" y="5" width="197" height="431" frameX="-102" frameY="0" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0001" x="2809" y="5" width="197" height="431" frameX="-102" frameY="0" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0002" x="3011" y="5" width="135" height="431" frameX="-160" frameY="-182" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0003" x="3011" y="5" width="135" height="431" frameX="-160" frameY="-182" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0004" x="3151" y="5" width="114" height="431" frameX="-186" frameY="-386" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0005" x="3270" y="5" width="309" height="132" frameX="-93" frameY="-750" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0006" x="3270" y="5" width="309" height="132" frameX="-93" frameY="-750" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0007" x="3584" y="5" width="313" height="131" frameX="-91" frameY="-751" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0008" x="3584" y="5" width="313" height="131" frameX="-91" frameY="-751" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0009" x="3584" y="5" width="313" height="131" frameX="-91" frameY="-751" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0010" x="5" y="441" width="307" height="133" frameX="-94" frameY="-749" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0011" x="5" y="441" width="307" height="133" frameX="-94" frameY="-749" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0012" x="317" y="441" width="295" height="137" frameX="-100" frameY="-745" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0013" x="317" y="441" width="295" height="137" frameX="-100" frameY="-745" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0014" x="617" y="441" width="264" height="179" frameX="-116" frameY="-703" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0015" x="617" y="441" width="264" height="179" frameX="-116" frameY="-703" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0016" x="886" y="441" width="268" height="343" frameX="-127" frameY="-539" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0017" x="886" y="441" width="268" height="343" frameX="-127" frameY="-539" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0018" x="1159" y="441" width="255" height="386" frameX="-125" frameY="-496" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0019" x="1159" y="441" width="255" height="386" frameX="-125" frameY="-496" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0020" x="1419" y="441" width="254" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0021" x="1419" y="441" width="254" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0022" x="1678" y="441" width="270" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0023" x="1678" y="441" width="270" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0024" x="1953" y="441" width="307" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0025" x="1953" y="441" width="307" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0026" x="2265" y="441" width="339" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0027" x="2265" y="441" width="339" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0028" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0029" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0030" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0031" x="2954" y="441" width="340" height="389" frameX="-124" frameY="-493" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0032" x="2954" y="441" width="340" height="389" frameX="-124" frameY="-493" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0033" x="3299" y="441" width="339" height="386" frameX="-125" frameY="-497" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0034" x="3299" y="441" width="339" height="386" frameX="-125" frameY="-497" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0035" x="3643" y="441" width="338" height="383" frameX="-126" frameY="-499" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0036" x="3643" y="441" width="338" height="383" frameX="-126" frameY="-499" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0037" x="3643" y="441" width="338" height="383" frameX="-126" frameY="-499" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0038" x="3643" y="441" width="338" height="383" frameX="-126" frameY="-499" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0039" x="3643" y="441" width="338" height="383" frameX="-126" frameY="-499" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0040" x="3643" y="441" width="338" height="383" frameX="-126" frameY="-499" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0041" x="3299" y="441" width="339" height="386" frameX="-125" frameY="-497" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0042" x="3299" y="441" width="339" height="386" frameX="-125" frameY="-497" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0043" x="5" y="836" width="337" height="390" frameX="-124" frameY="-493" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0044" x="5" y="836" width="337" height="390" frameX="-124" frameY="-493" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0045" x="347" y="836" width="444" height="396" frameX="-13" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0046" x="347" y="836" width="444" height="396" frameX="-13" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0047" x="796" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0048" x="796" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0049" x="1244" y="836" width="445" height="397" frameX="-10" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0050" x="1244" y="836" width="445" height="397" frameX="-10" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0051" x="1694" y="836" width="453" height="397" frameX="-1" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0052" x="1694" y="836" width="453" height="397" frameX="-1" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0053" x="2152" y="836" width="453" height="396" frameX="0" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0054" x="2152" y="836" width="453" height="396" frameX="0" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0055" x="2152" y="836" width="453" height="396" frameX="0" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0056" x="2152" y="836" width="453" height="396" frameX="0" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0057" x="2610" y="836" width="453" height="397" frameX="-1" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0058" x="2610" y="836" width="453" height="397" frameX="-1" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0059" x="3068" y="836" width="445" height="397" frameX="-10" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0060" x="3068" y="836" width="445" height="397" frameX="-10" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0061" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0062" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0063" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0064" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0065" x="3068" y="836" width="445" height="397" frameX="-10" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0066" x="3068" y="836" width="445" height="397" frameX="-10" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0067" x="2610" y="836" width="453" height="397" frameX="-1" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0068" x="2610" y="836" width="453" height="397" frameX="-1" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0069" x="5" y="1238" width="453" height="396" frameX="0" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0070" x="5" y="1238" width="453" height="396" frameX="0" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0071" x="5" y="1238" width="453" height="396" frameX="0" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0072" x="5" y="1238" width="453" height="396" frameX="0" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0073" x="2610" y="836" width="453" height="397" frameX="-1" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0074" x="2610" y="836" width="453" height="397" frameX="-1" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0075" x="3068" y="836" width="445" height="397" frameX="-10" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0076" x="3068" y="836" width="445" height="397" frameX="-10" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0077" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0078" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0079" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0080" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0081" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0082" x="3518" y="836" width="443" height="397" frameX="-13" frameY="-485" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0083" x="463" y="1238" width="444" height="396" frameX="-12" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0084" x="463" y="1238" width="444" height="396" frameX="-12" frameY="-486" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0085" x="912" y="1238" width="440" height="392" frameX="-15" frameY="-490" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0086" x="912" y="1238" width="440" height="392" frameX="-15" frameY="-490" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0087" x="1357" y="1238" width="348" height="386" frameX="-126" frameY="-497" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0088" x="1357" y="1238" width="348" height="386" frameX="-126" frameY="-497" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0089" x="1710" y="1238" width="348" height="387" frameX="-125" frameY="-496" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0090" x="1710" y="1238" width="348" height="387" frameX="-125" frameY="-496" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0091" x="2063" y="1238" width="342" height="389" frameX="-124" frameY="-493" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0092" x="2063" y="1238" width="342" height="389" frameX="-124" frameY="-493" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0093" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0094" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0095" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0096" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0097" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0098" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob intro0099" x="2609" y="441" width="340" height="390" frameX="-124" frameY="-492" frameWidth="474" frameHeight="883"/>
+	<SubTexture name="bob left0000" x="2410" y="1238" width="488" height="407" frameX="0" frameY="0" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob left0001" x="2410" y="1238" width="488" height="407" frameX="0" frameY="0" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob left0002" x="2903" y="1238" width="488" height="406" frameX="-5" frameY="-1" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob left0003" x="2903" y="1238" width="488" height="406" frameX="-5" frameY="-1" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob left0004" x="3396" y="1238" width="489" height="406" frameX="-6" frameY="-1" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob left0005" x="3396" y="1238" width="489" height="406" frameX="-6" frameY="-1" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob left0006" x="3396" y="1238" width="489" height="406" frameX="-6" frameY="-1" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob left0007" x="3396" y="1238" width="489" height="406" frameX="-6" frameY="-1" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob left0008" x="3396" y="1238" width="489" height="406" frameX="-6" frameY="-1" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob left0009" x="3396" y="1238" width="489" height="406" frameX="-6" frameY="-1" frameWidth="495" frameHeight="407"/>
+	<SubTexture name="bob pose0000" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob pose0001" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob pose0002" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob pose0003" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob pose0004" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob pose0005" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob pose0006" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob pose0007" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob pose0008" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob pose0009" x="2464" y="5" width="340" height="390" frameX="0" frameY="0" frameWidth="350" frameHeight="391"/>
+	<SubTexture name="bob right0000" x="5" y="1650" width="452" height="395" frameX="-9" frameY="0" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob right0001" x="5" y="1650" width="452" height="395" frameX="-9" frameY="0" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob right0002" x="462" y="1650" width="454" height="393" frameX="-3" frameY="-2" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob right0003" x="462" y="1650" width="454" height="393" frameX="-3" frameY="-2" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob right0004" x="921" y="1650" width="454" height="392" frameX="0" frameY="-3" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob right0005" x="921" y="1650" width="454" height="392" frameX="0" frameY="-3" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob right0006" x="921" y="1650" width="454" height="392" frameX="0" frameY="-3" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob right0007" x="921" y="1650" width="454" height="392" frameX="0" frameY="-3" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob right0008" x="921" y="1650" width="454" height="392" frameX="0" frameY="-3" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob right0009" x="921" y="1650" width="454" height="392" frameX="0" frameY="-3" frameWidth="461" frameHeight="395"/>
+	<SubTexture name="bob up0000" x="1380" y="1650" width="457" height="430" frameX="0" frameY="0" frameWidth="461" frameHeight="430"/>
+	<SubTexture name="bob up0001" x="1380" y="1650" width="457" height="430" frameX="0" frameY="0" frameWidth="461" frameHeight="430"/>
+	<SubTexture name="bob up0002" x="1842" y="1650" width="454" height="424" frameX="-6" frameY="-6" frameWidth="461" frameHeight="430"/>
+	<SubTexture name="bob up0003" x="1842" y="1650" width="454" height="424" frameX="-6" frameY="-6" frameWidth="461" frameHeight="430"/>
+	<SubTexture name="bob up0004" x="2301" y="1650" width="453" height="423" frameX="-8" frameY="-7" frameWidth="461" frameHeight="430"/>
+	<SubTexture name="bob up0005" x="2301" y="1650" width="453" height="423" frameX="-8" frameY="-7" frameWidth="461" frameHeight="430"/>
+	<SubTexture name="bob up0006" x="2301" y="1650" width="453" height="423" frameX="-8" frameY="-7" frameWidth="461" frameHeight="430"/>
+	<SubTexture name="bob up0007" x="2301" y="1650" width="453" height="423" frameX="-8" frameY="-7" frameWidth="461" frameHeight="430"/>
+</TextureAtlas>
