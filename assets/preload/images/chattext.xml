@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chattext.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="introText0000" x="5" y="5" width="773" height="252"/>
+	<SubTexture name="introText0001" x="5" y="5" width="773" height="252"/>
+	<SubTexture name="introText0002" x="5" y="5" width="773" height="252"/>
+	<SubTexture name="introText0003" x="5" y="5" width="773" height="252"/>
+	<SubTexture name="introText0004" x="783" y="5" width="770" height="252" frameX="-2" frameY="0" frameWidth="773" frameHeight="252"/>
+	<SubTexture name="introText0005" x="783" y="5" width="770" height="252" frameX="-2" frameY="0" frameWidth="773" frameHeight="252"/>
+	<SubTexture name="introText0006" x="783" y="5" width="770" height="252" frameX="-2" frameY="0" frameWidth="773" frameHeight="252"/>
+	<SubTexture name="introText0007" x="783" y="5" width="770" height="252" frameX="-2" frameY="0" frameWidth="773" frameHeight="252"/>
+	<SubTexture name="madeBy0000" x="5" y="262" width="640" height="115" frameX="0" frameY="0" frameWidth="645" frameHeight="115"/>
+	<SubTexture name="madeBy0001" x="5" y="262" width="640" height="115" frameX="0" frameY="0" frameWidth="645" frameHeight="115"/>
+	<SubTexture name="madeBy0002" x="5" y="262" width="640" height="115" frameX="0" frameY="0" frameWidth="645" frameHeight="115"/>
+	<SubTexture name="madeBy0003" x="5" y="262" width="640" height="115" frameX="0" frameY="0" frameWidth="645" frameHeight="115"/>
+	<SubTexture name="madeBy0004" x="650" y="262" width="644" height="115" frameX="-1" frameY="0" frameWidth="645" frameHeight="115"/>
+	<SubTexture name="madeBy0005" x="650" y="262" width="644" height="115" frameX="-1" frameY="0" frameWidth="645" frameHeight="115"/>
+	<SubTexture name="madeBy0006" x="650" y="262" width="644" height="115" frameX="-1" frameY="0" frameWidth="645" frameHeight="115"/>
+	<SubTexture name="madeBy0007" x="650" y="262" width="644" height="115" frameX="-1" frameY="0" frameWidth="645" frameHeight="115"/>
+	<SubTexture name="popIntro0000" x="5" y="382" width="773" height="310"/>
+	<SubTexture name="popIntro0001" x="5" y="382" width="773" height="310"/>
+	<SubTexture name="popIntro0002" x="5" y="382" width="773" height="310"/>
+	<SubTexture name="popIntro0003" x="5" y="382" width="773" height="310"/>
+	<SubTexture name="popIntro0004" x="783" y="382" width="770" height="310" frameX="-2" frameY="0" frameWidth="773" frameHeight="310"/>
+	<SubTexture name="popIntro0005" x="783" y="382" width="770" height="310" frameX="-2" frameY="0" frameWidth="773" frameHeight="310"/>
+	<SubTexture name="popIntro0006" x="783" y="382" width="770" height="310" frameX="-2" frameY="0" frameWidth="773" frameHeight="310"/>
+	<SubTexture name="popIntro0007" x="783" y="382" width="770" height="310" frameX="-2" frameY="0" frameWidth="773" frameHeight="310"/>
+	<SubTexture name="popMadeBy0000" x="5" y="697" width="680" height="217" frameX="0" frameY="0" frameWidth="680" frameHeight="219"/>
+	<SubTexture name="popMadeBy0001" x="5" y="697" width="680" height="217" frameX="0" frameY="0" frameWidth="680" frameHeight="219"/>
+	<SubTexture name="popMadeBy0002" x="5" y="697" width="680" height="217" frameX="0" frameY="0" frameWidth="680" frameHeight="219"/>
+	<SubTexture name="popMadeBy0003" x="5" y="697" width="680" height="217" frameX="0" frameY="0" frameWidth="680" frameHeight="219"/>
+	<SubTexture name="popMadeBy0004" x="690" y="697" width="679" height="219" frameX="0" frameY="0" frameWidth="680" frameHeight="219"/>
+	<SubTexture name="popMadeBy0005" x="690" y="697" width="679" height="219" frameX="0" frameY="0" frameWidth="680" frameHeight="219"/>
+	<SubTexture name="popMadeBy0006" x="690" y="697" width="679" height="219" frameX="0" frameY="0" frameWidth="680" frameHeight="219"/>
+	<SubTexture name="popMadeBy0007" x="690" y="697" width="679" height="219" frameX="0" frameY="0" frameWidth="680" frameHeight="219"/>
+</TextureAtlas>

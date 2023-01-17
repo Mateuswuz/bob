@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wildybounce.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wildybounce0000" x="5" y="5" width="136" height="178" frameX="0" frameY="-2" frameWidth="136" frameHeight="180"/>
+	<SubTexture name="wildybounce0001" x="5" y="5" width="136" height="178" frameX="0" frameY="-2" frameWidth="136" frameHeight="180"/>
+	<SubTexture name="wildybounce0002" x="146" y="5" width="131" height="180" frameX="-3" frameY="0" frameWidth="136" frameHeight="180"/>
+	<SubTexture name="wildybounce0003" x="146" y="5" width="131" height="180" frameX="-3" frameY="0" frameWidth="136" frameHeight="180"/>
+	<SubTexture name="wildybounce0004" x="282" y="5" width="131" height="180" frameX="-3" frameY="0" frameWidth="136" frameHeight="180"/>
+	<SubTexture name="wildybounce0005" x="282" y="5" width="131" height="180" frameX="-3" frameY="0" frameWidth="136" frameHeight="180"/>
+</TextureAtlas>

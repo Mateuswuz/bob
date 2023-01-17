@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phloxbounce.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phloxbounce0000" x="5" y="5" width="160" height="221" frameX="0" frameY="-2" frameWidth="160" frameHeight="224"/>
+	<SubTexture name="phloxbounce0001" x="5" y="5" width="160" height="221" frameX="0" frameY="-2" frameWidth="160" frameHeight="224"/>
+	<SubTexture name="phloxbounce0002" x="170" y="5" width="156" height="223" frameX="-2" frameY="0" frameWidth="160" frameHeight="224"/>
+	<SubTexture name="phloxbounce0003" x="170" y="5" width="156" height="223" frameX="-2" frameY="0" frameWidth="160" frameHeight="224"/>
+	<SubTexture name="phloxbounce0004" x="331" y="5" width="154" height="224" frameX="-3" frameY="0" frameWidth="160" frameHeight="224"/>
+	<SubTexture name="phloxbounce0005" x="331" y="5" width="154" height="224" frameX="-3" frameY="0" frameWidth="160" frameHeight="224"/>
+</TextureAtlas>
