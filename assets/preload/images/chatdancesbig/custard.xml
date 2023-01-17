@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="custard.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="custarddance0000" x="5" y="5" width="227" height="226" frameX="0" frameY="-3" frameWidth="227" frameHeight="229"/>
+	<SubTexture name="custarddance0001" x="5" y="5" width="227" height="226" frameX="0" frameY="-3" frameWidth="227" frameHeight="229"/>
+	<SubTexture name="custarddance0002" x="237" y="5" width="221" height="228" frameX="-3" frameY="-1" frameWidth="227" frameHeight="229"/>
+	<SubTexture name="custarddance0003" x="237" y="5" width="221" height="228" frameX="-3" frameY="-1" frameWidth="227" frameHeight="229"/>
+	<SubTexture name="custarddance0004" x="5" y="238" width="219" height="229" frameX="-4" frameY="0" frameWidth="227" frameHeight="229"/>
+	<SubTexture name="custarddance0005" x="5" y="238" width="219" height="229" frameX="-4" frameY="0" frameWidth="227" frameHeight="229"/>
+</TextureAtlas>

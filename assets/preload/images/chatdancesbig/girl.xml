@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girl.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="girldance0000" x="5" y="5" width="294" height="367" frameX="0" frameY="-2" frameWidth="294" frameHeight="369"/>
+	<SubTexture name="girldance0001" x="5" y="5" width="294" height="367" frameX="0" frameY="-2" frameWidth="294" frameHeight="369"/>
+	<SubTexture name="girldance0002" x="304" y="5" width="290" height="369" frameX="-2" frameY="0" frameWidth="294" frameHeight="369"/>
+	<SubTexture name="girldance0003" x="304" y="5" width="290" height="369" frameX="-2" frameY="0" frameWidth="294" frameHeight="369"/>
+	<SubTexture name="girldance0004" x="599" y="5" width="287" height="369" frameX="-3" frameY="0" frameWidth="294" frameHeight="369"/>
+	<SubTexture name="girldance0005" x="599" y="5" width="287" height="369" frameX="-3" frameY="0" frameWidth="294" frameHeight="369"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ski.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skidance0000" x="5" y="5" width="279" height="317" frameX="0" frameY="-2" frameWidth="279" frameHeight="320"/>
+	<SubTexture name="skidance0001" x="5" y="5" width="279" height="317" frameX="0" frameY="-2" frameWidth="279" frameHeight="320"/>
+	<SubTexture name="skidance0002" x="289" y="5" width="273" height="319" frameX="-3" frameY="-1" frameWidth="279" frameHeight="320"/>
+	<SubTexture name="skidance0003" x="289" y="5" width="273" height="319" frameX="-3" frameY="-1" frameWidth="279" frameHeight="320"/>
+	<SubTexture name="skidance0004" x="567" y="5" width="271" height="319" frameX="-4" frameY="0" frameWidth="279" frameHeight="320"/>
+	<SubTexture name="skidance0005" x="567" y="5" width="271" height="319" frameX="-4" frameY="0" frameWidth="279" frameHeight="320"/>
+</TextureAtlas>

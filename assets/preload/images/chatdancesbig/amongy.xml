@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amongy.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amongydance0000" x="5" y="5" width="201" height="168" frameX="0" frameY="-3" frameWidth="201" frameHeight="171"/>
+	<SubTexture name="amongydance0001" x="5" y="5" width="201" height="168" frameX="0" frameY="-3" frameWidth="201" frameHeight="171"/>
+	<SubTexture name="amongydance0002" x="211" y="5" width="195" height="170" frameX="-3" frameY="-1" frameWidth="201" frameHeight="171"/>
+	<SubTexture name="amongydance0003" x="211" y="5" width="195" height="170" frameX="-3" frameY="-1" frameWidth="201" frameHeight="171"/>
+	<SubTexture name="amongydance0004" x="5" y="180" width="193" height="171" frameX="-4" frameY="0" frameWidth="201" frameHeight="171"/>
+	<SubTexture name="amongydance0005" x="5" y="180" width="193" height="171" frameX="-4" frameY="0" frameWidth="201" frameHeight="171"/>
+</TextureAtlas>

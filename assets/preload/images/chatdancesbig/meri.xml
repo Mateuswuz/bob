@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meri.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="meridance0000" x="5" y="5" width="277" height="364" frameX="0" frameY="-3" frameWidth="277" frameHeight="367"/>
+	<SubTexture name="meridance0001" x="5" y="5" width="277" height="364" frameX="0" frameY="-3" frameWidth="277" frameHeight="367"/>
+	<SubTexture name="meridance0002" x="287" y="5" width="272" height="366" frameX="-2" frameY="-1" frameWidth="277" frameHeight="367"/>
+	<SubTexture name="meridance0003" x="287" y="5" width="272" height="366" frameX="-2" frameY="-1" frameWidth="277" frameHeight="367"/>
+	<SubTexture name="meridance0004" x="564" y="5" width="268" height="367" frameX="-4" frameY="0" frameWidth="277" frameHeight="367"/>
+	<SubTexture name="meridance0005" x="564" y="5" width="268" height="367" frameX="-4" frameY="0" frameWidth="277" frameHeight="367"/>
+</TextureAtlas>

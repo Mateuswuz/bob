@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xave.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="xavedance0000" x="5" y="5" width="248" height="311" frameX="0" frameY="-3" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="xavedance0001" x="5" y="5" width="248" height="311" frameX="0" frameY="-3" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="xavedance0002" x="258" y="5" width="243" height="313" frameX="-3" frameY="-1" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="xavedance0003" x="258" y="5" width="243" height="313" frameX="-3" frameY="-1" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="xavedance0004" x="506" y="5" width="239" height="314" frameX="-5" frameY="0" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="xavedance0005" x="506" y="5" width="239" height="314" frameX="-5" frameY="0" frameWidth="248" frameHeight="314"/>
+</TextureAtlas>

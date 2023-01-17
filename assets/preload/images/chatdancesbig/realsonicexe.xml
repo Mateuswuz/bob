@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="realsonicexe.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exedance0000" x="5" y="5" width="230" height="309" frameX="0" frameY="-1" frameWidth="230" frameHeight="310"/>
+	<SubTexture name="exedance0001" x="5" y="5" width="230" height="309" frameX="0" frameY="-1" frameWidth="230" frameHeight="310"/>
+	<SubTexture name="exedance0002" x="240" y="5" width="226" height="310" frameX="-2" frameY="0" frameWidth="230" frameHeight="310"/>
+	<SubTexture name="exedance0003" x="240" y="5" width="226" height="310" frameX="-2" frameY="0" frameWidth="230" frameHeight="310"/>
+	<SubTexture name="exedance0004" x="471" y="5" width="224" height="310" frameX="-3" frameY="0" frameWidth="230" frameHeight="310"/>
+	<SubTexture name="exedance0005" x="471" y="5" width="224" height="310" frameX="-3" frameY="0" frameWidth="230" frameHeight="310"/>
+</TextureAtlas>

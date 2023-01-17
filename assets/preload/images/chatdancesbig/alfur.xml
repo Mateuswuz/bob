@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alfur.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alfurdance0000" x="5" y="5" width="132" height="214" frameX="0" frameY="-3" frameWidth="132" frameHeight="217"/>
+	<SubTexture name="alfurdance0001" x="5" y="5" width="132" height="214" frameX="0" frameY="-3" frameWidth="132" frameHeight="217"/>
+	<SubTexture name="alfurdance0002" x="142" y="5" width="129" height="216" frameX="-1" frameY="-1" frameWidth="132" frameHeight="217"/>
+	<SubTexture name="alfurdance0003" x="142" y="5" width="129" height="216" frameX="-1" frameY="-1" frameWidth="132" frameHeight="217"/>
+	<SubTexture name="alfurdance0004" x="276" y="5" width="127" height="217" frameX="-2" frameY="0" frameWidth="132" frameHeight="217"/>
+	<SubTexture name="alfurdance0005" x="276" y="5" width="127" height="217" frameX="-2" frameY="0" frameWidth="132" frameHeight="217"/>
+</TextureAtlas>
